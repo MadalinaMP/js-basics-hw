@@ -10,6 +10,7 @@ compute how many times a certain element appears in an array
 Challenge
 
 using nested for generate the following pattern
+           
            0 1 0 1
 
            1 0 1 0
