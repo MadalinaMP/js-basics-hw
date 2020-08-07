@@ -47,7 +47,6 @@ console.log('5. compute how many times a certain element appears in an array');
 var list = [11, 3, 1, 2, 3, 15, 24, 55, 3, 3];
 var findElement = 3;
 var counted = 0;
-
 for (var index = 0; index <= list.length; index++) {
     if (list[index] == findElement) {
         counted++;
