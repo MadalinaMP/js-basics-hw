@@ -53,4 +53,4 @@ for (var index = 0; index <= list.length; index++) {
         counted++;
     }
 }
-console.log('3 appears ' + counted + ' times in the array: ' + list);
+console.log(findElement + ' appears ' + counted + ' times in the array: ' + list);
